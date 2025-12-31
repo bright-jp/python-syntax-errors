@@ -1,6 +1,6 @@
 # Pythonの構文エラーを回避して修正する方法
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
 
 このガイドでは、よくあるPythonの構文エラー、事前に防ぐために使用すべきプロアクティブな戦略、そして効率的に解決するために使用すべきリアクティブな方法について解説します。
 
@@ -458,7 +458,7 @@ data = fetch_data()
 
 たとえば、エディタ上の赤いマークは、`if response.status_code == 200` にコロンが欠けていることを示している可能性があります。
 
-![A red mark suggesting there is an error ](https://github.com/luminati-io/python-syntax-errors/blob/main/images/A-red-mark-suggesting-there-is-an-error-1024x525.png)
+![A red mark suggesting there is an error ](https://github.com/bright-jp/python-syntax-errors/blob/main/images/A-red-mark-suggesting-there-is-an-error-1024x525.png)
 
 #### Follow Consistent Coding Style Guidelines
 
